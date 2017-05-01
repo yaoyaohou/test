@@ -3,5 +3,4 @@
 <<<<<<< HEAD
 # Creating a new branch is qu & si .
 =======
-# Creating a new branch is qu and si . 
->>>>>>> dev
+# Creating a new branch is qu and si .
